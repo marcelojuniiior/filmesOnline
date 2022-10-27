@@ -18,8 +18,7 @@ header div{
     width: 200px;
     margin: auto;    
     text-align: center;    
-    animation: TopBottom .4s backwards;
-    border: 1px solid red;
+    animation: TopBottom .4s backwards;    
 }
 header div img{
     width: 100%;           
@@ -31,8 +30,7 @@ main{
     margin: auto;
     margin-bottom: 60px;
     display: grid;
-    gap: 24px;
-    border: 1px solid red;
+    gap: 24px;    
 }
 section{
     padding-top: 5px;
