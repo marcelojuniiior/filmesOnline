@@ -9,6 +9,11 @@
 body{
     background-image: linear-gradient(red,rgba(0, 0, 0, 0.959) 40%, black 80%);
 }
+
+header{
+    padding-top: 32px;
+    height: calc(120px + 32px);
+}
 header div{
     width: 200px;
     margin: auto;    
